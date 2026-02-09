@@ -1,0 +1,3 @@
+Machine Learning starts with data
+Python makes file handling easy
+This data is added later
